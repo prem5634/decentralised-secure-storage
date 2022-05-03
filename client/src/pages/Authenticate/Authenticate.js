@@ -131,7 +131,7 @@ class Authenticate extends Component {
       <div className="auth-wrapper">
         <svg className="svg_dstore" viewBox="0 0 960 300">
           <symbol id="s-text">
-            <text text-anchor="middle" x="50%" y="80%">Dstore</text>
+            <text text-anchor="middle" x="50%" y="80%">De Storage</text>
           </symbol>
           <g class="g-ants">
             <use xlinkHref="#s-text" class="text-copy-auth"></use>

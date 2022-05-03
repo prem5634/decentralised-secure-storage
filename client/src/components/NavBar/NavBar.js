@@ -36,7 +36,7 @@ function Navbar() {
       <nav className="navbar">
         <Link to="/" className="navbar-logo" onClick={() => setSidebar(false) }>
           <Icons.FaPiedPiper />
-          DSTORE
+          De Storage
         </Link>
         {!mobile && (
           <ul className="nav-items">
