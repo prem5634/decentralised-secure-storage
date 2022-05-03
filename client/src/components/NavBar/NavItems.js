@@ -4,7 +4,7 @@ import * as Icons from "react-icons/fa";
 export const navItems = [
   {
     id: 1,
-    title: "Dashboard",
+    title: "Home",
     path: "./../dashboard",
     nName: "nav-item",
     sName: "sidebar-item",
@@ -12,26 +12,10 @@ export const navItems = [
   },
   {
     id: 2,
-    title: "Store House",
+    title: "Files",
     path: "./../storeHouse",
     nName: "nav-item",
     sName: "sidebar-item",
     icon: <Icons.FaBriefcase />,
-  },
-  // {
-  //   id: 3,
-  //   title: "Resources",
-  //   path: "./../resources",
-  //   nName: "nav-item",
-  //   sName: "sidebar-item",
-  //   icon: <Icons.FaCartArrowDown />,
-  // },
-  {
-    id: 3,
-    title: "Contact Us",
-    path: "./../contact",
-    nName: "nav-item",
-    sName: "sidebar-item",
-    icon: <Icons.FaPhone />,
   },
 ];

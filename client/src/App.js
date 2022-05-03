@@ -8,7 +8,6 @@ import Authenticate from "./pages/Authenticate/Authenticate";
 import Dashboard from "./pages/Dashboard/Dashboard";
 import StoreHouse from "./pages/StoreHouse/StoreHouse";
 import Resources from "./pages/Resources/Resources";
-import Contact from "./pages/Contact/Contact";
 
 //import Signup from "./pages/Signup";
 
@@ -22,7 +21,6 @@ function App() {
           <Route path="/dashboard" element={<Dashboard />}></Route>
           <Route path="/storehouse" element={<StoreHouse />}></Route>
           <Route path="/resources" element={<Resources />}></Route>
-          <Route path="/contact" element={<Contact />}></Route>
         </Routes>
       </BrowserRouter>
     </>
