@@ -47,7 +47,7 @@ function Home() {
       <div className="row">
         <div className="col-sm-3">
           <div className="team-member">
-            <img className="mx-auto rounded-circle" src={require('./img/team/Amudhini.jpeg')} alt=""/>
+            <img className="mx-auto rounded-circle" src={require('./img/team/jaikiran.jpeg')} alt=""/>
             <h4>M JAI KIRAN</h4>
             <br/>
             <h4>AM.EN.U4CSE18133</h4>
@@ -63,7 +63,7 @@ function Home() {
         </div>
         <div className="col-sm-3">
           <div className="team-member">
-            <img className="mx-auto rounded-circle" src={require('./img/team/Amudhini.jpeg')} alt=""/>
+            <img className="mx-auto rounded-circle" src={require('./img/team/kalyan.png')} alt=""/>
             <h4>V KALYAN</h4>
             <br/>
             <h4>AM.EN.U4CSE18163</h4>
