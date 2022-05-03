@@ -55,7 +55,7 @@ function Home() {
         </div>
         <div className="col-sm-3">
           <div className="team-member">
-            <img className="mx-auto rounded-circle" src={require('./img/team/Amudhini.jpeg')} alt=""/>
+            <img className="mx-auto rounded-circle" src={require('./img/team/rohit.jpeg')} alt=""/>
             <h4>N ROHITH</h4>
             <br/>
             <h4>AM.EN.U4CSE18139</h4>
